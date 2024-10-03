@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|c:\\users\\mergezy\\source\\repos\\windowsformsappmagazine\\windowsformsappmagazine\\mainmenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\mainmenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\windowsformsappmagazine\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\windowsformsappmagazine\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\windowsformsappmagazine\\authform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\authform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\windowsformsappmagazine\\regform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\regform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\windowsformsappmagazine\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\windowsformsappmagazine\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\windowsformsappmagazine\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\windowsformsappmagazine\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\windowsformsappmagazine\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\windowsformsappmagazine\\md5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8746EC-4B49-4E62-A042-E5D09682F11F}|WindowsFormsAppMagazine\\WindowsFormsAppMagazine.csproj|solutionrelative:windowsformsappmagazine\\md5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainMenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\mainMenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\mainMenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\mainMenuForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\mainMenuForm.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:30:26.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "regForm.cs",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\regForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\regForm.cs",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\regForm.cs",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\regForm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:52:10.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "authForm.cs",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\authForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\authForm.cs",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\authForm.cs",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\authForm.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:18:03.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mainMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\mainMenuForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\mainMenuForm.cs",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\mainMenuForm.cs",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\mainMenuForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwDsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:24:21.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "regForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\regForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\regForm.cs",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\regForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\regForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:15:54.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "regForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\regForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\regForm.Designer.cs",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\regForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\regForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:31:12.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mainMenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\mainMenuForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\mainMenuForm.cs",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\mainMenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\mainMenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:24:08.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "authForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\authForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\authForm.cs",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\authForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\authForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:16:09.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "authForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\authForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\authForm.Designer.cs",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\authForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\authForm.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAGMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:30:44.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\App.config",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\App.config",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-16T07:30:42.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "md5.cs",
+              "DocumentMoniker": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\md5.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppMagazine\\md5.cs",
+              "ToolTip": "C:\\Users\\mergezy\\source\\repos\\WindowsFormsAppMagazine\\WindowsFormsAppMagazine\\md5.cs",
+              "RelativeToolTip": "WindowsFormsAppMagazine\\md5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:40:29.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

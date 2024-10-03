@@ -1,0 +1,12 @@
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\obj\Debug\WindowsFormsAppMagazine.csproj.AssemblyReference.cache
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\obj\Debug\WindowsFormsAppMagazine.Properties.Resources.resources
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\obj\Debug\WindowsFormsAppMagazine.csproj.GenerateResource.cache
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\obj\Debug\WindowsFormsAppMagazine.csproj.CoreCompileInputs.cache
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\obj\Debug\WindowsFormsAppMagazine.authForm.resources
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\obj\Debug\WindowsFormsAppMagazine.regForm.resources
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\bin\Debug\WindowsFormsAppMagazine.exe.config
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\bin\Debug\WindowsFormsAppMagazine.exe
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\bin\Debug\WindowsFormsAppMagazine.pdb
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\obj\Debug\WindowsFormsAppMagazine.exe
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\obj\Debug\WindowsFormsAppMagazine.pdb
+C:\Users\mergezy\source\repos\WindowsFormsAppMagazine\WindowsFormsAppMagazine\obj\Debug\WindowsFormsAppMagazine.mainMenuForm.resources
